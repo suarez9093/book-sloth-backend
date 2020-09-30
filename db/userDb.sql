@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS BookSloth;
+CREATE DATABASE BookSloth;
+USE BookSloth;
+

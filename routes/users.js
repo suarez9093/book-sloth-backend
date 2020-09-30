@@ -95,7 +95,7 @@ router.delete("/:id", (req, res) => {
       throw error;
     }
 
-    res.send(req.body);
+    res.send(results);
   });
 });
 
